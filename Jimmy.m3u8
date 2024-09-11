@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/beijing.png",Jimmy
 http://iptv.8t.cx:8180/rtp/239.3.1.129:8008
-
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
@@ -39,7 +37,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
@@ -54,7 +51,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-
 #EXTINF:-1 group-title="省市地方" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://iptv.8t.cx:8180/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="省市地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",北京文艺
@@ -75,7 +71,6 @@ http://iptv.8t.cx:8180/rtp/239.3.1.189:8000
 http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="省市地方" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/beijing.png",北京国际
 http://iptv.8t.cx:8180/rtp/239.3.1.235:8000
-
 #EXTINF:-1 group-title="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",北京体育休闲
 http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",北京体育休闲
